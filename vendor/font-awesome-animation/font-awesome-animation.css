@@ -1,4 +1,7 @@
-/* WRENCHING */
+/*!
+ * font-awesome-animation - v0.0.1
+ * https://github.com/l-lin/font-awesome-animation
+ */
 @-moz-keyframes wrenching {
 	0%{-moz-transform:rotate(-12deg)}
 	8%{-moz-transform:rotate(12deg)}
@@ -273,7 +276,7 @@
 	animation: horizontal 2s ease 5;
 }
 
-/* FLASHING */
+/* FLASH */
 @-moz-keyframes flash {
 	0%,100%,50%{opacity:1}
 	25%,75%{opacity:0}
